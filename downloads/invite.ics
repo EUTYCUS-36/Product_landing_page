@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Africa/Nairobi
+LAST-MODIFIED:20250410T142247Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Africa/Nairobi
+X-LIC-LOCATION:Africa/Nairobi
+BEGIN:STANDARD
+TZNAME:EAT
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250804T152657Z
+DTSTART;TZID=Africa/Nairobi:20250804T183000
+DTEND;TZID=Africa/Nairobi:20250804T203000
+SUMMARY:Web Development III
+UID:b97kuj9o6go30e9k70o34c1n8so42lqkf9j64ki66pkkut37613kiiaqd98kugq3al954hae8d2j2dpl6gpj4c9k60o30c1g
+DESCRIPTION:Topic: Web Development III\nDescription: Join us for an exciting Zoom webinar series designed to take you from a coding beginner to a confident front-end web developer! Through hands-on projects and guided instruction\, you'll gain the essential skills needed to create beautiful\, responsive\, and interactive websites.\n\nJoin from PC\, Mac\, iPad\, or Android:\nhttps://powerlearnproject-org.zoom.us/w/84009480207?tk=lM7CPCNKOlzP9lsuBRb9fdVe21cM1F6vl0hsVRUHtY0.DQgAAAATj1rwDxZHMEFXVHpmYlJGNmlPdGcwR0lJWmpRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=D3tgARqNKQDJcNMq88p3VxbJeRW7vK.1\nPasscode:206115\n\nPhone one-tap:\n+13052241968\,\,84009480207#\,\,\,\,*206115# US\n+13092053325\,\,84009480207#\,\,\,\,*206115# US\n\nJoin via audio:\n+1 305 224 1968 US\n+1 309 205 3325 US\n+1 312 626 6799 US (Chicago)\n+1 346 248 7799 US (Houston)\n+1 360 209 5623 US\n+1 386 347 5053 US\n+1 507 473 4847 US\n+1 564 217 2000 US\n+1 646 931 3860 US\n+1 669 444 9171 US\n+1 669 900 6833 US (San Jose)\n+1 689 278 1000 US\n+1 719 359 4580 US\n+1 929 436 2866 US (New York)\n+1 253 205 0468 US\n+1 253 215 8782 US (Tacoma)\n+1 301 715 8592 US (Washington DC)\nWebinar ID: 840 0948 0207\nPasscode: 206115\nInternational numbers available: https://powerlearnproject-org.zoom.us/u/kcArW7DyUt\n\n\n
+TZID:Africa/Nairobi
+LOCATION:https://powerlearnproject-org.zoom.us/w/84009480207?tk=lM7CPCNKOlzP9lsuBRb9fdVe21cM1F6vl0hsVRUHtY0.DQgAAAATj1rwDxZHMEFXVHpmYlJGNmlPdGcwR0lJWmpRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=D3tgARqNKQDJcNMq88p3VxbJeRW7vK.1
+ORGANIZER;ROLE=REQ-PARTICIPANT;CN=PLP Academy:no-reply@zoom.us
+ATTENDEE;ROLE=REQ-PARTICIPANT;CN=EUTYCUS MACHARIA:eutycus36@gmail.com
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

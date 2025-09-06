@@ -1,0 +1,15 @@
+[user]
+	name = EUTYCUS-36
+	email = eutycus36@gmail.com
+[safe]
+	directory = /storage/emulated/0/Website development assignment
+	directory = /storage/emulated/0/Python assignment
+	directory = /storage/emulated/0/PLP ACADEMY/Website development assignment/week 3 assignment
+	directory = /storage/emulated/0/Download/Calculator_discount.py
+	directory = /storage/emulated/0/Download/Week_4assignment.py
+	directory = /storage/emulated/0/PLP ACADEMY/Website development assignment/week 4assignment
+	directory = /storage/emulated/0/PLP ACADEMY/Python assignment
+	directory = /storage/emulated/0/PLP ACADEMY/Python assignment
+	directory = /storage/emulated/0/PLP ACADEMY/Python assignment/week five.py
+[credential]
+	helper = store

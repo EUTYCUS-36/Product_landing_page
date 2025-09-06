@@ -1,0 +1,39 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@10.9.3
+2 info using node@v22.19.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/mpesa-project/backend/.npmrc
+5 silly config load:file:/data/data/com.termux/files/home/.npmrc
+6 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install"
+9 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2025-08-31T06_14_39_298Z-
+10 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2025-08-31T06_14_39_298Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:1098907648 maxSize:274726912 maxEntrySize:137363456
+13 silly idealTree buildDeps
+14 silly reify moves {}
+15 verbose stack Error: Could not read package.json: Error: ENOENT: no such file or directory, open '/data/data/com.termux/files/home/mpesa-project/backend/package.json'
+15 verbose stack     at async open (node:internal/fs/promises:641:25)
+15 verbose stack     at async readFile (node:internal/fs/promises:1245:14)
+15 verbose stack     at async read (/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/@npmcli/package-json/lib/read-package.js:9:18)
+15 verbose stack     at async PackageJson.load (/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/@npmcli/package-json/lib/index.js:132:31)
+15 verbose stack     at async PackageJson.normalize (/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/@npmcli/package-json/lib/index.js:118:5)
+15 verbose stack     at async runScript (/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/run-script.js:11:28)
+15 verbose stack     at async Install.exec (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/commands/install.js:175:9)
+15 verbose stack     at async Npm.exec (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/npm.js:207:9)
+15 verbose stack     at async module.exports (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/cli/entry.js:67:5)
+16 error code ENOENT
+17 error syscall open
+18 error path /data/data/com.termux/files/home/mpesa-project/backend/package.json
+19 error errno -2
+20 error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/data/data/com.termux/files/home/mpesa-project/backend/package.json'
+21 error enoent This is related to npm not being able to find a file.
+21 error enoent
+22 verbose cwd /data/data/com.termux/files/home/mpesa-project/backend
+23 verbose os Linux 5.10.209-android12-9-00016-g7c6bbcca33e1-ab12029497
+24 verbose node v22.19.0
+25 verbose npm  v10.9.3
+26 verbose exit -2
+27 verbose code -2
+28 error A complete log of this run can be found in: /data/data/com.termux/files/home/.npm/_logs/2025-08-31T06_14_39_298Z-debug-0.log
