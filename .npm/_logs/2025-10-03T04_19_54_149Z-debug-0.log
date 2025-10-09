@@ -1,0 +1,38 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@11.5.1
+2 info using node@v24.7.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/mongodb-data-layer-fundamentals-and-advanced-techniques-EUTYCUS-36/.npmrc
+5 silly config load:file:/data/data/com.termux/files/home/.npmrc
+6 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+7 verbose title npm init
+8 verbose argv "init" "--yes"
+9 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2025-10-03T04_19_54_149Z-
+10 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2025-10-03T04_19_54_149Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly package data {
+12 silly package data   name: 'mongodb-data-layer-fundamentals-and-advanced-techniques-eutycus-36',
+12 silly package data   version: '1.0.0',
+12 silly package data   description: 'Before you begin this assignment, please make sure you have the following installed:',
+12 silly package data   main: 'insert_books.js',
+12 silly package data   directories: { example: 'examples' },
+12 silly package data   scripts: { test: 'echo "Error: no test specified" && exit 1' },
+12 silly package data   repository: {
+12 silly package data     type: 'git',
+12 silly package data     url: 'git+https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-EUTYCUS-36.git'
+12 silly package data   },
+12 silly package data   keywords: [],
+12 silly package data   author: '',
+12 silly package data   license: 'ISC',
+12 silly package data   type: 'commonjs',
+12 silly package data   bugs: {
+12 silly package data     url: 'https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-EUTYCUS-36/issues'
+12 silly package data   },
+12 silly package data   homepage: 'https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-EUTYCUS-36#readme'
+12 silly package data }
+13 verbose cwd /data/data/com.termux/files/home/mongodb-data-layer-fundamentals-and-advanced-techniques-EUTYCUS-36
+14 verbose os Linux 5.10.209-android12-9-00016-g7c6bbcca33e1-ab12029497
+15 verbose node v24.7.0
+16 verbose npm  v11.5.1
+17 verbose exit 0
+18 info ok

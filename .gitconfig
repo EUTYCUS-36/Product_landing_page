@@ -11,5 +11,16 @@
 	directory = /storage/emulated/0/PLP ACADEMY/Python assignment
 	directory = /storage/emulated/0/PLP ACADEMY/Python assignment
 	directory = /storage/emulated/0/PLP ACADEMY/Python assignment/week five.py
+	directory = /storage/emulated/0/PLP ACADEMY/Website development assignment
+	directory = /storage/emulated/0/PLP ACADEMY/Website development assignment/week 5 assignment
+	directory = /storage/emulated/0/PLP ACADEMY/Website development assignment/week 6 assignment/plp-webtechnologies-classroom-july2025-july-2025-javascript-events-and-basic-interactivity-javascrip
+	directory = /storage/emulated/0/PLP ACADEMY/Website development assignment/week 6 assignment/plp-webtechnologies-classroom-july2025-july-2025-javascript-events-and-basic-interactivity-javascrip
+	directory = /storage/emulated/0/PLP ACADEMY/Website development assignment/week 6 assignment/plp-webtechnologies-classroom-july2025-july-2025-javascript-events-and-basic-interactivity-javascrip
+	directory = /data/data/com.termux/files/home/storage/shared/PLP ACADEMY/Website development assignment/week 6 assignment /plp-webtechnologies-classroom-july2025-july-2025-javascript-events-and-basic-interactivity-javascrip
+	directory = /storage/emulated/0/PLP ACADEMY/Python assignment/week six.py
+	directory = /storage/emulated/0/www school /Techdoc/CSS-Documantion
+	directory = /storage/emulated/0/www school /Techdoc/CSS-Documantion
 [credential]
 	helper = store
+[init]
+	defaultBranch = main
