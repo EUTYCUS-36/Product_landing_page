@@ -189,3 +189,84 @@ git remote add origin https://github.com/EUTYCUS-36/CSS-Documantion-page.git
 git remote -v
 git checkout -b gh-pages
 git push -u origin gh-pages
+nano package.json
+git add .
+git commit -m "Completed Express.js RESTful API assignment"
+git push
+pwd
+/data/data/com.termux/files/home/express-js-server-side-framework-EUTYCUS-36
+cd express-js-server-side-framework-EUTYCUS-36
+git remote -v
+origin  https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-EUTYCUS-36.git (fetch)
+origin  https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-EUTYCUS-36.git (push)
+git remote add origin https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-EUTYCUS-36.git
+git add .
+git commit -m "Completed Express.js RESTful API assignment"
+git branch -M main
+git push -u origin main
+ls
+git add week1.js
+git commit -m "Added Week1 assignment file"
+git push -u origin main
+ls
+find ~ -name "week1.js"
+mv <path>/week1.js ~/express-js-server-side-framework-EUTYCUS-36/
+mv ~/Downloads/week1.js ~/express-js-server-side-framework-EUTYCUS-36/
+ls
+/data/data/com.termux/files/home/mongodb-data-layer-fundamentals-and-advanced-techniques-EUTYCUS-36/week1.js
+/data/data/com.termux/files/home/express-js-server-side-framework-EUTYCUS-36/
+mv /data/data/com.termux/files/home/mongodb-data-layer-fundamentals-and-advanced-techniques-EUTYCUS-36/week1.js /data/data/com.termux/files/home/express-js-server-side-framework-EUTYCUS-36/
+ls
+git add week1.js
+git commit -m "Added Week1 MongoDB assignment"
+git push -u origin main
+cd /storage/emulated/0
+cd "www school/landing page"
+ls
+cd 'www school '
+ls
+cd'landing page'
+ls
+cd 'landing page'
+ls
+pkg install git -y
+git init
+git add .
+git commit -m "Initial commit - EUTYCO landing page"
+git config --global --add safe.directory "/storage/emulated/0/www school /landing page"
+git add .
+git commit -m "Initial commit - EUTYCO landing page"
+[main (root-commit) 123abc4] Initial commit - EUTYCO landing page
+git remote add origin https://github.com/EUTYCUS-36/Product_landing_page.git
+git branch -M main
+git push -u origin main
+cd "/storage/emulated/0/www school /landing page"
+git add .
+git commit -m "Final touches for hosting"
+git push origin main
+git status
+git add .
+git commit -m "Final update before hosting"
+git push
+nothing to commit, working tree clea
+pwd
+ls
+git status
+git ls-files
+git remote -v
+git branch
+git add .
+git commit -m "Final upload"
+git push -u origin main
+pwd
+git remote -v
+git branch
+ls
+git init
+git remote add origin https://github.com/EUTYCUS-36/Product_landing_page.git
+git branch -M main
+git add .
+git commit -m "Upload real project files"
+git push -f origin main
+cat .gitignore
+ls

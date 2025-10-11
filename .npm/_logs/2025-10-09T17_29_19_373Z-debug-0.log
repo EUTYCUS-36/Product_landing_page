@@ -1,0 +1,39 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@11.5.1
+2 info using node@v24.7.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/.npmrc
+5 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+6 verbose title npm init
+7 verbose argv "init" "--yes"
+8 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2025-10-09T17_29_19_373Z-
+9 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2025-10-09T17_29_19_373Z-debug-0.log
+10 silly logfile done cleaning log files
+11 silly package data {
+11 silly package data   name: 'express-js-server-side-framework-eutycus-36',
+11 silly package data   version: '1.0.0',
+11 silly package data   description: 'This assignment focuses on building a RESTful API using Express.js, implementing proper routing, middleware, and error handling.',
+11 silly package data   main: 'server.js',
+11 silly package data   scripts: {
+11 silly package data     test: 'echo "Error: no test specified" && exit 1',
+11 silly package data     start: 'node server.js'
+11 silly package data   },
+11 silly package data   repository: {
+11 silly package data     type: 'git',
+11 silly package data     url: 'git+https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-EUTYCUS-36.git'
+11 silly package data   },
+11 silly package data   keywords: [],
+11 silly package data   author: '',
+11 silly package data   license: 'ISC',
+11 silly package data   type: 'commonjs',
+11 silly package data   bugs: {
+11 silly package data     url: 'https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-EUTYCUS-36/issues'
+11 silly package data   },
+11 silly package data   homepage: 'https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-EUTYCUS-36#readme'
+11 silly package data }
+12 verbose cwd /data/data/com.termux/files/home/express-js-server-side-framework-EUTYCUS-36
+13 verbose os Linux 5.10.209-android12-9-00016-g7c6bbcca33e1-ab12029497
+14 verbose node v24.7.0
+15 verbose npm  v11.5.1
+16 verbose exit 0
+17 info ok

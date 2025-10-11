@@ -1,0 +1,38 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@11.5.1
+2 info using node@v24.7.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/express-js-server-side-framework-EUTYCUS-36/.npmrc
+5 silly config load:file:/data/data/com.termux/files/home/.npmrc
+6 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+7 verbose title npm install
+8 verbose argv "install"
+9 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2025-10-09T17_32_50_288Z-
+10 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2025-10-09T17_32_50_288Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly packumentCache heap:1174405120 maxSize:293601280 maxEntrySize:146800640
+13 silly logfile done cleaning log files
+14 verbose stack JSONParseError: Expected ',' or '}' after property value in JSON at position 713 (line 20 column 1) while parsing near "...-EUTYCUS-36/issues\"\n{\n  \"type\": \"module\"..."
+14 verbose stack     at /data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/read-package-json-fast/lib/index.js:7:61
+14 verbose stack     at async #initTree (/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:271:21)
+14 verbose stack     at async Arborist.buildIdealTree (/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:179:7)
+14 verbose stack     at async Promise.all (index 1)
+14 verbose stack     at async Arborist.reify (/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/reify.js:126:5)
+14 verbose stack     at async Install.exec (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/commands/install.js:162:5)
+14 verbose stack     at async Npm.exec (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/npm.js:208:9)
+14 verbose stack     at async module.exports (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/cli/entry.js:60:5)
+15 error code EJSONPARSE
+16 error path /data/data/com.termux/files/home/express-js-server-side-framework-EUTYCUS-36/package.json
+17 error JSON.parse Expected ',' or '}' after property value in JSON at position 713 (line 20 column 1) while parsing near "...-EUTYCUS-36/issues\"\n{\n  \"type\": \"module\"..."
+18 error JSON.parse Failed to parse JSON data.
+18 error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+19 silly unfinished npm timer reify 1760031171452
+20 silly unfinished npm timer reify:loadTrees 1760031171457
+21 silly unfinished npm timer idealTree:init 1760031171460
+22 verbose cwd /data/data/com.termux/files/home/express-js-server-side-framework-EUTYCUS-36
+23 verbose os Linux 5.10.209-android12-9-00016-g7c6bbcca33e1-ab12029497
+24 verbose node v24.7.0
+25 verbose npm  v11.5.1
+26 verbose exit 1
+27 verbose code 1
+28 error A complete log of this run can be found in: /data/data/com.termux/files/home/.npm/_logs/2025-10-09T17_32_50_288Z-debug-0.log
